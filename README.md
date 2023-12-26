@@ -10,16 +10,15 @@ At Algostar, we're focused on developing cutting-edge web applications that blen
 Right now, we're pouring our energy into a groundbreaking web app that [Brief Description]. Stay tuned for updates as we embark on this exciting journey!
 
 👥 **Who We Are:**
-- [Team Member 1]: [Short description, expertise]
-- [Team Member 2]: [Short description, expertise]
-- [Team Member 3]: [Short description, expertise]
-- ...
+- [Shahtaz Rahman]: [MERN Stack Developer, React JS, Node JS]
+- [Rahim Uddin Rafin]: [MERN Stack Developer, React JS, Node JS]
+- [Nayeem Hossain]: [MERN Stack Developer, React JS, Node JS]
 
 🌐 **Connect with Us:**
 Feel free to explore our repositories and join us on this adventure. Your feedback and collaboration are always welcome!
 
 📬 **Contact:**
-Email: [Your Email Address]
-LinkedIn: [Your LinkedIn Profiles]
+Email: [algostar.dev@gmail.com]
+LinkedIn: [linkedin.com/in/algostar]
 
 Let's code the future together! 🚀
